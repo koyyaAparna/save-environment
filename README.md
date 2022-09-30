@@ -37,7 +37,7 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 ![chat bot](https://user-images.githubusercontent.com/111993391/193286320-c42af767-f48d-4cb4-ad94-07cc5645254e.png)
 
 ### About Page
-
+![about](https://user-images.githubusercontent.com/111993391/193286714-c3ef09ec-f414-48e8-ae4b-10423e6c9498.png)
 
 ### FAQ Page
 

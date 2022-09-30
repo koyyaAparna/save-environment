@@ -29,7 +29,7 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 ## Screenshorts:
 ### Home Page 
-
+![home page](https://user-images.githubusercontent.com/111993391/193285852-ec353fed-abcd-4fbe-bd23-d0e3cdabe5bc.png)
 
 ### About Chat Bot 
 

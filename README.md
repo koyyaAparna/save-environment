@@ -2,7 +2,7 @@
 This is a Informational bot application developoed for education related to give information about MS Azure.
 ### This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skil prime, Quess, GitHub,EY.
 
-## project link: "https://sites.google.com/view/azure-chat-bot-azure-websites/contact"
+## project link: "https://sites.google.com/view/saveenvironment-azure-website/home"
 
 ## Project title: 
        Azure Chat Bot
@@ -29,19 +29,18 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 ## Screenshorts:
 ### Home Page 
-![homepage](https://user-images.githubusercontent.com/110820099/189345964-1b4ac1a3-89f9-41ea-acfa-8eb6a62f4fde.png)
+
 
 ### About Chat Bot 
-![About chat bot](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+
 
 ### About Page
-![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
+
 
 ### FAQ Page
-![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
+
 
 ### Contact Page
-![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
 
 
 

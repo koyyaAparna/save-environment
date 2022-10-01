@@ -21,7 +21,7 @@ I have created a informational bot named "Save Environment Chat bot" using Html 
 - Examples: Wood for furniture, soil, land, etc
 
 ## About ChatBot 💬: 
-- Created a chat bot About Azure.
+- Created a chat bot About Save Environment.
 - Also available with app.
 - "This ChatBot" looks like a professional bot where you can find (or) know information about "Save Environment" .
 - Bot contains information about Azure like i.e; history, of Azure and services etc..
